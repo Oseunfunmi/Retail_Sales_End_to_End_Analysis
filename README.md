@@ -40,6 +40,8 @@ Upon initial inspection in Excel, the dataset was found to have inconsistent for
 ### 2. Data Cleaning (SQL)
 **Source:** `Sales query final.png`
 
+![Screenshots of some queries](Sales query full.png)
+
 Data was imported into SQL Server to ensure integrity before visualization.
 
 **Step A: Handling Null Values**
@@ -66,7 +68,7 @@ WHERE Transaction_ID is null
 
 ### 3. Visualization & Storytelling (Power BI)
 
-Source: Sales Dashboard full.png
+Source: ![Dashboard](images/Sales Dashboard full.png)
 
 The cleaned data was imported into Power BI to build the final report.
 
