@@ -105,6 +105,8 @@ Loyalty Program: Launch a tiered loyalty program specifically targeting the top 
 
 Inventory Management: Increase stock levels for "Beverages" and "Butchers" categories to prevent stockouts during identified peak periods.
 
+*(Check the `access_files` folder for the original files for this project)*
+
 📬 Contact
 Oluwaseun Michael Akinyemi
 
